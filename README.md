@@ -19,9 +19,9 @@
 ##目录结构
 <pre>
 
-  	|__ .gitignore 	#git忽略
-  	|__ package.json 	#项目配置
-  	|__ README.md 	#项目说明
+    |__ .gitignore 	git忽略
+    |__ package.json 	项目配置
+    |__ README.md 	项目说明
     |__ webpack.config.js 基础配置
     |__ gulpfile.js gulp 配置
     |__ bower.json bower-安装包
